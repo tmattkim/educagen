@@ -1,4 +1,4 @@
-# AI Course Generator
+# Educagen Course Generator
 
 An interactive web app that uses Google’s Gemini Large Language Model API to generate fully developed courses from a simple topic prompt. The app produces a complete outline and a structuredd list of modules, each of which can be expanded for detailed, educational content to learn complex topics entirely in one place.
 
@@ -52,3 +52,8 @@ Check out the [demo]()!
    ```bash
    streamlit run app.py
    ```
+---
+
+## Additional Information
+
+- The app uses Gemini 2.0 Flash
