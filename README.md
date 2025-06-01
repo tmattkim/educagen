@@ -24,7 +24,6 @@ Check out the [demo]()!
 ### Prerequisites
 
 - Python 3.8 or higher
-- Streamlit
 - Google Gemini API access and API key
 
 ### Installation
