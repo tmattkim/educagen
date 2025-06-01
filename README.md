@@ -4,8 +4,9 @@ An interactive web app that uses Google’s Gemini Large Language Model API to g
 
 Check out the [demo]()!
 
-![Educagen Home Page Image](/homePage.png)
-![Educagen Demo Image](/example.png)
+![Educagen Home Page Image](/images/homePage.png)
+
+![Educagen Demo Image](/images/example.png)
 
 ---
 
